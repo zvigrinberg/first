@@ -59,7 +59,7 @@
   <distributionManagement>
     <repository>
       <id>rhpam</id>
-      <url>https://redhat-repo.dev-temenos-cloud.net/repository/rhpam/</url>
+      <url>https://repo.repsy.io/mvn/dmartino/rhpam</url>
     </repository>
   </distributionManagement>
 </project>
